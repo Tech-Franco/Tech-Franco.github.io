@@ -1,8 +1,1 @@
----
-layout: about
-title: About
----
-
-## TECH FRANCO
-
-At Tech Franco, customer satisfaction is our priority. we bring technology to your doorstep, making us the best and most reliable and trusted Tech company in the World. we specializes on Website Development, Network Administration, Event Coverage, Computer Hardware repair.
+## <h3> At Tech Franco, customer satisfaction is our priority. we bring technology to your doorstep, making us the best and most reliable and trusted Tech company in the World. we specializes on Website Development, Network Administration, Event Coverage, Computer Hardware repair.</h3>
